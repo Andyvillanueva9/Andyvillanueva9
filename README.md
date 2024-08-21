@@ -1,16 +1,19 @@
 <h1>Hi, I'm Andy! 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Project</b>
+- <b>Wazuh</b>
+  - [Wazuh Server Configuration](Link)
+  - [Deploying Agents](Link)
+  - [Further Agent Group Configuration](Link)
+  - [API Integrations](Link)
+- <b>Crowdstrike</b>
+  - [Deploying Falcon Sensors](Link) <b><i></b></i>
+- <b>Analysis</b>
+  - [Malware Analysis](Link)
+  - [Phishing Email Analysis](Link)
+  - [Event Analysis](Link)
   - [Project](Link)
-- <b>Project</b>
-  - [Project](Link) <b><i></b></i>
-- <b>Project</b>
-  - [Project](Link)
-  - [Project](Link)
-  - [Project](Link)
-  - [Project](Link)
-- <b>Project</b>
+- <b></b>
   - [Project](Link)
   - [Project](Link)
   - [Project](Link)
