@@ -1,27 +1,22 @@
 <h1>Hi, I'm Andy! 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Analysis</b>
+  - [Event Analysis](Link)
+  - [Incident Report](Link)
+  - [Malware Analysis](Link)
+  - [Phishing Email Analysis](Link)
 - <b>Wazuh</b>
   - [Wazuh Server Configuration](Link)
   - [Deploying Agents](Link)
-  - [Further Agent Group Configuration](Link)
   - [API Integrations](Link)
 - <b>Crowdstrike</b>
-  - [Deploying Falcon Sensors](Link) <b><i></b></i>
-- <b>Analysis</b>
-  - [Malware Analysis](Link)
-  - [Phishing Email Analysis](Link)
-  - [Event Analysis](Link)
-  - [Project](Link)
-- <b></b>
-  - [Project](Link)
-  - [Project](Link)
-  - [Project](Link)
-- <b>Project</b>
-  - [Project](Link)
+  - [Deploying Falcon Sensors](Link) 
 
 
-<h2> 🤳 Connect with me:</h2>
+
+
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
