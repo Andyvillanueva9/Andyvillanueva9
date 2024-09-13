@@ -7,7 +7,7 @@
 <!--  - [Malware Analysis](Link) -->
  <!-- - [Phishing Email Analysis](Link) -->
 - <b>Wazuh</b>
-  - [Wazuh Server Configuration](Link)
+  - [Wazuh Server Configuration](https://github.com/Andyvillanueva9/Wazuh-Server-Configuration/blob/40b3e83cd6a57e9a5fe4b36e7a5a7c6ec4cdabf7/README.md)
   - [Deploying Agents](Link)
   - [API Integrations](Link)
 - <b>Crowdstrike</b>
