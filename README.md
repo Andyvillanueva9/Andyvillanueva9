@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Analysis</b>
-  - [Event Analysis](Link) 
+  - [Incident Handlers Journal](Link) 
   - [Incident Report](https://github.com/Andyvillanueva9/Incident-Report/blob/4e4e68eec2e5543a6492480a09776b938aef2cb5/README.md)
 <!--  - [Malware Analysis](Link) -->
  <!-- - [Phishing Email Analysis](Link) -->
