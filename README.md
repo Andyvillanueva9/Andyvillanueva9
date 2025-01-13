@@ -2,16 +2,16 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Analysis</b>
-  - [Incident Handlers Journal](Link) 
+  - Incident Handlers Journal
   - [Incident Report](https://github.com/Andyvillanueva9/Incident-Report/blob/4e4e68eec2e5543a6492480a09776b938aef2cb5/README.md)
 <!--  - [Malware Analysis](Link) -->
  <!-- - [Phishing Email Analysis](Link) -->
 - <b>Wazuh</b>
   - [Wazuh Server Configuration](https://github.com/Andyvillanueva9/Wazuh-Server-Configuration/blob/40b3e83cd6a57e9a5fe4b36e7a5a7c6ec4cdabf7/README.md)
-  - [Deploying Agents](Link)
-  - [API Integrations](Link)
+  - Deploying Agents
+  - Virus Total API Integration
 - <b>Crowdstrike</b>
-  - [Deploying Falcon Sensors](Link) 
+  - Deploying Falcon Sensors
 
 
 
