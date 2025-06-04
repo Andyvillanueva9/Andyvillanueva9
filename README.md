@@ -1,4 +1,5 @@
 <h1>Hi, I'm Andy! 
+<h4> I am an IT professional with hands on experience analyzing security events, implementing security controls, optimizing/automating security tools and ethical hacking. I have a proven ability to work independently and collaboratively in fast-paced enterprise or start-up environments. Aside from information security I have a diverse IT background that includes IT support, network administration/engineering, identity and access managment (IAM) administration/engineering, and system administration/engineering. 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Analysis</b>
